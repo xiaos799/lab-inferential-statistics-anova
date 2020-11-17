@@ -17,7 +17,7 @@ Suppose you are working as an analyst in a microprocessor chip manufacturing pla
 - What is the significance level
 - What are the degrees of freedom of model, error terms, and total DoF
 
-Data was collected randomly and provided to you in the table as shown: [link to the image - Data](./lab/lab_data.png)
+Data was collected randomly and provided to you in the table as shown: [link to the image - Data](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/7.05/7.05-lab_data.png)
 
 
 ## Part 2
