@@ -6,7 +6,13 @@ Note: The following lab is divided in 2 sections which represent activities 3 an
 
 ## Part 1
 
-In this activity, we will look at another example. Your task is to understand the problem and write down all the steps to set up ANOVA. After the next lesson, we will ask you to solve this problem using Python.
+In this activity, we will look at another example. Your task is to understand the problem and write down all the steps to set up ANOVA. After the next lesson, we will ask you to solve this problem using Python. Here are the steps that you would need to work on:
+    - Null hypothesis
+    - Alternate hypothesis
+    - Level of significance
+    - Test statistic
+    - P-value
+    - F table
 
 ### Context
 
