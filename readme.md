@@ -28,7 +28,7 @@ Data was collected randomly and provided to you in the table as shown: [link to 
 
 ## Part 2
 
-- In this section, use the Python to conduct ANOVA.
+- In this section, use Python to conduct ANOVA.
 - What conclusions can you draw from the experiment and why?
 
 
